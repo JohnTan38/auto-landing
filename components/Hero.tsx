@@ -28,7 +28,7 @@ const Hero = () => {
         <Image className='absolute md:right-[30%] xs:right-[15%] xs:top-[90%]' src='/icon-people.png' alt='icon people' width={50} height={50} />
         <div className='absolute shadow sm:left-[75%] sm:top-[65%] xs:top-[50%] xs:left-[85%] flex sm:flex-row xs:flex-col xs:flexCenter xs:text-center gap-2 bg-white rounded-3xl py-3 px-6'>
           <Image src='/location.png' alt='location' width={20} height={20} />
-          <p className='font-semibold'>Top Places</p>
+          <p className='font-semibold'>Top automations</p>
         </div> 
       </div>
     </section>
