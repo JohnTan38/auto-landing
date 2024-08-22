@@ -34,7 +34,7 @@ const Newsletter = () => {
       
       <div className='bg-[#fff9e8] xs:mx-8 lg:mx-24 xs:px-8 lg:padding-container xs:py-16 lg:py-28 flex flex-col xs:gap-12 lg:gap-20'>
         <div className='flexCenter flex-col gap-4'>
-          <h3 className='text_pink xs:text-lg lg:text-2xl font-bold text-center newsletter'>Email</h3>
+          <h3 className='text_pink xs:text-lg lg:text-2xl font-bold text-center newsletter'>contact us</h3>
           <h1 className='font-bold xs:text-2xl sm:text-3xl md:text-4xl lg:text-7xl text-center'>Let's automate</h1>
         </div>
 
