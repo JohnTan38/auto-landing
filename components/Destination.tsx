@@ -9,6 +9,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 // import required modules
 import { Pagination } from 'swiper/modules';
+import Button from './Button';
 
 const Destination = () => {
   return (
