@@ -49,7 +49,7 @@ const Destination = () => {
         >
           <SwiperSlide className='pb-12'>
             <DestinationCard img='https://iili.io/dMMtcc7.jpg' place='PSA Portnet data download' country='Python' price='TPT' rating='4.9' />
-            a href="https://youtu.be/RO5IEOnXJYo" className="btn_outline_black">
+            <a href="https://youtu.be/RO5IEOnXJYo" className="btn_outline_black">
             <Button type='button' title='Portnet video' variant='btn_outline_black' icon='https://iili.io/dMh9kTN.png' />
           </a>
           </SwiperSlide>
