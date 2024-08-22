@@ -16,7 +16,9 @@ const Hero = () => {
         <h1 className='sm:text-7xl xs:text-6xl font-semibold'>Explore <span className='text-[#F85E9F]'>top automations </span></h1>
         <p className='text-[#191825] text-opacity-50 text-xl'>We automate business processes</p>
         <div className='btn-container flex gap-4'>
-          <Button type='button' title='Get Started' variant='btn_purple shadow' />
+          <a href="https://streamlit-azz-app.azurewebsites.net" className="btn_purple_shadow">
+          <Button type='button' title='Launch App' variant='btn_purple shadow' />
+            </a>
           <a href="https://youtu.be/9LBSPzEoG7Y" className="btn_outline_black">
           <Button type='button' title='Watch Demo' variant='btn_outline_black' icon='https://iili.io/dMh9kTN.png' />
             </a>
