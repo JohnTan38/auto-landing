@@ -13,10 +13,10 @@ import { Pagination } from 'swiper/modules';
 const Destination = () => {
   return (
     <section className='relative max-container padding-container flex flex-col gap-16 py-12'>
-      <Image className='absolute xs:bottom-[65%] xs:right-[5%] md:bottom-[70%] xl:right-0' src='/yellowx.png' alt='yellow object' width={100} height={100} />
+      <Image className='absolute xs:bottom-[65%] xs:right-[5%] md:bottom-[70%] xl:right-0' src='https://iili.io/dVVZD8b.png' alt='dVVZD8b' width={100} height={100} />
 
       <div className='top'>
-        <Title title='top destination' subtitle='Explore top destination' />
+        <Title title='success stories' subtitle='Discover top automations' />
       </div>
 
       <div className='bottom flex items-center justify-between'>
@@ -48,19 +48,22 @@ const Destination = () => {
           }}
         >
           <SwiperSlide className='pb-12'>
-            <DestinationCard img='/beach2.jpg' place='Paradise Beach, Bantayan Island' country='Rome, Italy' price='$550.16' rating='4.8' />
+            <DestinationCard img='https://iili.io/dMMtcc7.jpg' place='PSA Portnet data download' country='Python' price='TPT' rating='4.9' />
+            a href="https://youtu.be/RO5IEOnXJYo" className="btn_outline_black">
+            <Button type='button' title='Portnet video' variant='btn_outline_black' icon='https://iili.io/dMh9kTN.png' />
+          </a>
           </SwiperSlide>
           <SwiperSlide>
-            <DestinationCard img='/ocean.jpg' place='Ocean with full of Colors' country='Maldives' price='$20.99' rating='4.5' />
+            <DestinationCard img='https://iili.io/dMMt19e.png' place='COSCO MNR photo upload' country='Python' price='CCD' rating='4.8' />
           </SwiperSlide>
           <SwiperSlide>
-            <DestinationCard img='/mountain.jpg' place='Mountain View, Above the cloud' country='United Arab Emeries' price='$150.99' rating='5.0' />
+            <DestinationCard img='https://iili.io/dMMtGwb.png' place='Hapaq Lloyd container status' country='Python RPA' price='CCD' rating='5.0' />
           </SwiperSlide>
           <SwiperSlide>
-            <DestinationCard img='/snorkeling.jpg' place='Gili Trawangan Island' country='Lombok, Indonesia' price='$750.00' rating='4.8' />
+            <DestinationCard img='https://iili.io/dVVrglR.jpg' place='Esker Accounts Payable' country='Python' price='Finance' rating='4.9' />
           </SwiperSlide>
           <SwiperSlide>
-            <DestinationCard img='/boat.jpg' place='Kuta Island' country='Bali, Indonesia' price='$670.50' rating='4.6' />
+            <DestinationCard img='https://iili.io/dMMtMtj.jpg' place='Container movement' country='Python' price='CCD' rating='4.8' />
           </SwiperSlide>
         </Swiper>
       </div>
@@ -92,7 +95,7 @@ const DestinationCard = ({img, place, country, price, rating} : DestinationCardP
         <p className='mt-3'>{country}</p>
         <div className='mt-6 flex gap-1 items-center'>
           <p className='text_orange font-bold'>{rating}</p>
-          <Image className='h-full' src='/star.png' alt='star' width={20} height={5} />
+          <Image className='h-full' src='https://iili.io/dMh9j3J.png' alt='dMh9j3J' width={20} height={5} />
         </div>
       </div>    
     </div>
