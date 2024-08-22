@@ -11,13 +11,13 @@ const Hero = () => {
       <div className='relative z-2 flex flex-1 flex-col gap-8 xl:w-2/5'>
         <div className='flex shadow gap-2 bg-white w-[215px] text-[#F85E9F] rounded-3xl py-3 px-6'>
           <p className='font-semibold'>Explore the world!</p>
-          <Image src='/icon1.png' alt='icon' width={20} height={20} />
+          <Image src='https://iili.io/dMh9Paf.png' alt='icon' width={20} height={20} />
         </div>
-        <h1 className='sm:text-7xl xs:text-6xl font-semibold'>Travel <span className='text-[#F85E9F]'>top destination </span>of the world</h1>
-        <p className='text-[#191825] text-opacity-50 text-xl'>We always make our customer happy by providing as many choices as possible </p>
+        <h1 className='sm:text-7xl xs:text-6xl font-semibold'>Explore <span className='text-[#F85E9F]'>top automations </span></h1>
+        <p className='text-[#191825] text-opacity-50 text-xl'>We automate business processes</p>
         <div className='btn-container flex gap-4'>
           <Button type='button' title='Get Started' variant='btn_purple shadow' />
-          <Button type='button' title='Watch Demo' variant='btn_outline_black' icon='/play-circle.png' />
+          <Button type='button' title='Watch Demo' variant='btn_outline_black' icon='https://iili.io/dMh9kTN.png' />
         </div>
       </div>
 
