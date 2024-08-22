@@ -28,7 +28,7 @@ const Testimonials = () => {
           </div>
           <div className='flex gap-6 flex-col h-full items-center justify-center'>
             <Image className='rounded-[50%]' src="https://iili.io/dMh9UCX.jpg" alt="..." width={120} height={100} />
-            <h1 className='text-xl font-semibold'><span className='text-[#FF5722]'>Anna K.</span> / Travel Enthusiast</h1>
+            <h1 className='text-xl font-semibold'><span className='text-[#FF5722]'>Anna K.</span> / Finance Executive</h1>
             <div className='flex gap-2'>
               <Image src='https://iili.io/dMh9WEg.png' alt='dMh9WEg' width={30} height={30} />
               <Image src='https://iili.io/dMh9WEg.png' alt='dMh9WEg' width={30} height={30} />
@@ -39,7 +39,7 @@ const Testimonials = () => {
           </div>
           <div className='flex gap-6 flex-col h-full items-center justify-center'>
             <Image className='rounded-[50%]' src="https://iili.io/dMh963G.jpg" alt="..." width={120} height={100} />
-            <h1 className='text-xl font-semibold'><span className='text-[#FF5722]'>Leigh Anne</span> / Model</h1>
+            <h1 className='text-xl font-semibold'><span className='text-[#FF5722]'>Linda Lim</span> / Transport Executive</h1>
             <div className='flex gap-2'>
               <Image src='https://iili.io/dMh9WEg.png' alt='dMh9WEg' width={30} height={30} />
               <Image src='https://iili.io/dMh9WEg.png' alt='dMh9WEg' width={30} height={30} />
