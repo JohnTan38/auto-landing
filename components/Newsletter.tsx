@@ -1,5 +1,6 @@
-import React from 'react'
-import Image from 'next/image'
+"use client";
+import React from 'react';
+import Image from 'next/image';
 
 const Newsletter = () => {
   const [email, setEmail] = React.useState('');
