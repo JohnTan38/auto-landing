@@ -23,7 +23,7 @@ const Hero = () => {
 
       {/* RIGHT */}
       <div className='relative z-1 xl:w-3/5 flexCenter first-line:flex-1'>
-        <Image src='/frame.png' alt='frame' width={500} height={25} className='h-full w-auto'/>          
+        <Image src='https://iili.io/dVW1DR2.jpg' alt='dVW1DR2' width={500} height={25} className='h-full w-auto'/>          
         <Image className='absolute xs:left-[-5%] sm:left-[0%] md:left-[10%] lg:left-[20%] xl:left-[10%] top-[42%]' src='/icon-place.png' alt='icon place' width={50} height={50} />
         <Image className='absolute md:right-[30%] xs:right-[15%] xs:top-[90%]' src='/icon-people.png' alt='icon people' width={50} height={50} />
         <div className='absolute shadow sm:left-[75%] sm:top-[65%] xs:top-[50%] xs:left-[85%] flex sm:flex-row xs:flex-col xs:flexCenter xs:text-center gap-2 bg-white rounded-3xl py-3 px-6'>
