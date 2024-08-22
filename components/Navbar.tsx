@@ -28,7 +28,7 @@ const Navbar = () => {
     <nav className={scrolling ? 'navbar-scroll max-container padding-container flex justify-between py-8 fixed z-50' : 'max-container padding-container flex justify-between py-8'}>
         <div className='left'>
             <Link href='/' className='flexCenter gap-2'>
-                <Image src='/travlog_logo.svg' alt='logo' width={40} height={40}/>
+                <Image src='https://iili.io/dVbg81R.jpg' alt='dVbg81R' width={40} height={40}/>
                 <h2 className='font-bold text-lg'>Travlog</h2>
             </Link>            
         </div>
