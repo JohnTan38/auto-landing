@@ -24,7 +24,7 @@ const Testimonials = () => {
               <Image src='https://iili.io/dMh9WEg.png' alt='dMh9WEg' width={30} height={30} />
               <Image src='https://iili.io/dMh9WEg.png' alt='dMh9WEg' width={30} height={30} />
             </div>            
-            <p className='text-lg lg:w-3/4 xl:w-1/2 text-center'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+            <p className='text-lg lg:w-3/4 xl:w-1/2 text-center'>Unlocking cost and time savings, automating repetitive business processes at scale.</p>
           </div>
           <div className='flex gap-6 flex-col h-full items-center justify-center'>
             <Image className='rounded-[50%]' src="https://iili.io/dMh9UCX.jpg" alt="..." width={120} height={100} />
@@ -35,7 +35,7 @@ const Testimonials = () => {
               <Image src='https://iili.io/dMh9WEg.png' alt='dMh9WEg' width={30} height={30} />
               <Image src='https://iili.io/dMh9WEg.png' alt='dMh9WEg' width={30} height={30} />
             </div>            
-            <p className='text-lg lg:w-3/4 xl:w-1/2 text-center'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+            <p className='text-lg lg:w-3/4 xl:w-1/2 text-center'>Data processing at scale, automating workflows significantly reduced human errors.</p>
           </div>
           <div className='flex gap-6 flex-col h-full items-center justify-center'>
             <Image className='rounded-[50%]' src="https://iili.io/dMh963G.jpg" alt="..." width={120} height={100} />
@@ -47,7 +47,7 @@ const Testimonials = () => {
               <Image src='https://iili.io/dMh9WEg.png' alt='dMh9WEg' width={30} height={30} />
               <Image src='https://iili.io/dMh9WEg.png' alt='dMh9WEg' width={30} height={30} />
             </div>            
-            <p className='text-lg lg:w-3/4 xl:w-1/2 text-center'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+            <p className='text-lg lg:w-3/4 xl:w-1/2 text-center'>Complex and time-consuming tasks are now streamlined and automated, reducing manual efforts significantly.</p>
           </div>
         </Carousel>     
       </div>
