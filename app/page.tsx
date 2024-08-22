@@ -13,7 +13,7 @@ export default function Home() {
       <Hero />
       {/*<Sponsor />*/}
       {/*<Services />*/}
-      {/*<Destination />*/}
+      <Destination />
       {/*<TravelPoint />*/}
       {/*<Features />*/}
       <Testimonials />
