@@ -17,7 +17,9 @@ const Hero = () => {
         <p className='text-[#191825] text-opacity-50 text-xl'>We automate business processes</p>
         <div className='btn-container flex gap-4'>
           <Button type='button' title='Get Started' variant='btn_purple shadow' />
+          <a href="https://youtu.be/9LBSPzEoG7Y" className="btn_outline_black">
           <Button type='button' title='Watch Demo' variant='btn_outline_black' icon='https://iili.io/dMh9kTN.png' />
+            </a>
         </div>
       </div>
 
