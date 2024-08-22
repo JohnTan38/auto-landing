@@ -11,11 +11,11 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <Sponsor />
-      <Services />
+      {/*<Sponsor />*/}
+      {/*<Services />*/}
       <Destination />
-      <TravelPoint />
-      <Features />
+      {/*<TravelPoint />*/}
+      {/*<Features />*/}
       <Testimonials />
       <Newsletter />
     </>
