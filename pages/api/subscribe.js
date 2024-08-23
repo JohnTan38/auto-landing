@@ -9,7 +9,7 @@ export default async function handler(req, res) {
       service: 'hotmail',
       auth: {
         user: process.env.user,
-        pass: process.env.pass',
+        pass: process.env.pass,
       },
     });
     await new Promise((resolve, reject) => {
