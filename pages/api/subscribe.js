@@ -8,8 +8,8 @@ export default async function handler(req, res) {
     let transporter = nodemailer.createTransport({
       service: 'hotmail',
       auth: {
-        user: 'azx1818@hotmail.com',
-        pass: 'realmadrid8989',
+        user: process.env.user,
+        pass: process.env.pass',
       },
     });
     await new Promise((resolve, reject) => {
